@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid red;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    line-height: 20px;
+    word-spacing: 10px;
+    background-image: url("images/img1.jpg");
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+h2{
+    background-color: orange;
+    padding: 10px;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+}
